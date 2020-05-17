@@ -280,4 +280,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-minimal
+remote-theme: mmistakes/minimal-mistakes
